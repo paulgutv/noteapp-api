@@ -15,7 +15,7 @@ let notes = [
     },
     {
     id: 2,
-    content: "Browser can execute only Javascript",
+    content: "Browser can execute onl Javascript",
     date: "2022-05-30T18:39:34.091Z",
     important: false
     },
