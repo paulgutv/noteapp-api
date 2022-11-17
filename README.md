@@ -1,1 +1,1 @@
-# notesapp-api
+# noteapp-api
