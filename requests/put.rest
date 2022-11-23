@@ -1,0 +1,7 @@
+PUT http://localhost:3001/api/notes/637beaee62d68d85b2a97f3f
+Content-Type: application/json
+
+{
+    "content": "A renew note",
+    "important": true
+}
